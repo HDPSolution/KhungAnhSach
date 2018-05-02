@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size">120dp</dimen>
+    <dimen name="margin">60dp</dimen>
+    <dimen name="marginleft">150dp</dimen>
+    <dimen name="margintop">0dp</dimen>
+    <dimen name="sizeimage">200dp</dimen>
+    <dimen name="itemimageh">110dp</dimen>
+    <dimen name="itemimagew">300dp</dimen>
+
+</resources>

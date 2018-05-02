@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Book Photo Frames</string>
+    <string name="cameranotsp">Camera not support</string>
+    <string name="sharevs">Share to : </string>
+    <string name="saveto">Save to </string>
+    <string name="pickimage">Pick photo</string>
+    <string name="notper">Set permission fail!</string>
+    <string name="xemlai">"History"</string>
+    <string name="share">https://play.google.com/store/apps/details?id=</string>
+    <string name="notnetwork">Not Network</string>
+    <string name="turn">Turn now</string>
+    <string name="no">No</string>
+    <string name="text_dialog_not_edit">No Image! Edit Now</string>
+    <string name="agree">Agree</string>
+    <string name="openwith">Open with</string>
+    <string name="wantdelete">Do you want to delete?</string>
+    <string name="done">Done</string>
+    <string name="error">Error</string>
+    <string name="photohaveframe">History</string>
+    <string name="selectframe">Select Frame</string>
+    <string name="selectphoto">Select Photo</string>
+    <string name="capture">Capture</string>
+    <string name="saveorshare">Save or Share</string>
+    <string name="my_own_cancel">Cancel</string>
+    <string name="my_own_message">Do you want to rate this application?</string>
+    <string name="my_own_rate">Ok</string>
+    <string name="my_own_thanks">Don\'t show again</string>
+    <string name="my_own_title">Rate</string>
+
+</resources>

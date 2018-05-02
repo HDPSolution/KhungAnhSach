@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size">210dp</dimen>
+    <dimen name="margin">100dp</dimen>
+    <dimen name="marginleft">200dp</dimen>
+    <dimen name="margintop">20dp</dimen>
+    <dimen name="sizeimage">280dp</dimen>
+</resources>

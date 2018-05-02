@@ -1,0 +1,476 @@
+{
+  "project_info": {
+    "project_number": "271576641601",
+    "firebase_url": "https://khunganh-f0870.firebaseio.com",
+    "project_id": "khunganh-f0870",
+    "storage_bucket": "khunganh-f0870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:bf565258185b7a34",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.animalphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:2ea25e678b8bd116",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.babyphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:3bcd13eaa20774a8",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.birthdayphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:541199eccd2faeb1",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.flowerphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:c16f36ee2f9481cd",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.khunganhbien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:07e92207a0c95d18",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.khunganhcuoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:1fa2d97d7150d883",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.khunganhdethuong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:88ee8e60e7cbca41",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.khunganhdongvat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:f74203bfcef11447",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.khunganhembe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:a2957891ccaea31e",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.khunganhhoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:4c1a1892b9176b9a",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.khunganhsinhnhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:65bf8d040e778c8d",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.khunganhtrangsach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:bfedd54701b2d0c3",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.lovephotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:9f84fdef8fbb2455",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.oceanphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271576641601:android:4215664edc081e4a",
+        "android_client_info": {
+          "package_name": "com.hdpsolution.weddingphotoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271576641601-p3glgot7uas5r43mihp4bsik2vbptvk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvq3-K9MqZVca5jr6klJ88FANWQHis3ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

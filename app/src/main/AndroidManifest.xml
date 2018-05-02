@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hdpsolution.khunganhtrangsach">
+
+    <!--<uses-feature-->
+    <!--android:name="android.hardware.Camera"-->
+    <!--android:required="true" />-->
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name="com.hdpsolution.khunganhtrangsach.MainActivity"
+            android:screenOrientation="userLandscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hdpsolution.khunganhtrangsach.EditActivity"
+            android:screenOrientation="userLandscape" />
+        <activity
+            android:name="com.hdpsolution.khunganhtrangsach.ListImageActivity"
+            android:screenOrientation="userLandscape" />
+        <activity
+            android:name="com.hdpsolution.khunganhtrangsach.HistoryActivity"
+            android:screenOrientation="userLandscape"></activity>
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.hdpsolution.khunganhtrangsach.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths"></meta-data>
+        </provider>
+
+    </application>
+
+</manifest>

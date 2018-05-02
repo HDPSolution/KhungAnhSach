@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size">190dp</dimen>
+    <dimen name="margin">90dp</dimen>
+    <dimen name="marginleft">190dp</dimen>
+    <dimen name="margintop">10dp</dimen>
+    <dimen name="sizeimage">300dp</dimen>
+    <dimen name="itemimageh">180dp</dimen>
+    <dimen name="itemimagew">500dp</dimen>
+</resources>

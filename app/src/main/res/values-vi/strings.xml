@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Khung Anh Trang Sach</string>
+    <string name="cameranotsp">Camera không được hỗ trợ</string>
+    <string name="sharevs">Chia sẻ hình ảnh với : </string>
+    <string name="saveto">Ảnh được lưu thành công tại</string>
+    <string name="pickimage">Chọn hình cần ghép thêm khung</string>
+    <string name="notper">Cấp quyền thất bại! Vào cài đặt để ứng dụng để cấp lại quyền!</string>
+    <string name="xemlai">"Xem lại ảnh đã ghép khung"</string>
+    <string name="notnetwork">Bạn chưa bật mạng!</string>
+    <string name="turn">Bật ngay</string>
+    <string name="no">Không</string>
+    <string name="text_dialog_not_edit">Bạn chưa chỉnh sửa ảnh nào!\nChỉnh sửa ngay..</string>
+    <string name="agree">Đồng ý</string>
+    <string name="openwith">Mở bằng</string>
+    <string name="wantdelete">Bạn có muốn xóa ảnh này?</string>
+    <string name="done">Xong</string>
+    <string name="error">Lỗi</string>
+    <string name="photohaveframe">Ảnh đã ghép khung</string>
+    <string name="selectframe">Chọn Khung</string>
+    <string name="selectphoto">Đổi Ảnh</string>
+    <string name="capture">Chụp Ảnh</string>
+    <string name="saveorshare">Lưu hoặc Chia Sẻ</string>
+
+    <string name="my_own_cancel">Để sau</string>
+    <string name="my_own_message">Bạn có thích ứng dụng Khung ảnh tình yêu này? Bạn có muốn đánh giá để ứng dụng ngày càng phát triển?</string>
+    <string name="my_own_rate">Ok</string>
+    <string name="my_own_thanks">Không hiện nữa</string>
+    <string name="my_own_title">Đánh giá</string>
+
+</resources>

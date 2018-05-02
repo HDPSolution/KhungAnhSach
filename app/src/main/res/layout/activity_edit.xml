@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <FrameLayout
+            android:id="@+id/anhchup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/anh"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center" />
+
+            <ImageView
+                android:id="@+id/khung"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY" />
+        </FrameLayout>
+
+
+        <com.github.clans.fab.FloatingActionMenu
+            android:id="@+id/menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|bottom"
+            android:layout_margin="2dp"
+            fab:menu_colorPressed="@color/colorPrimary"
+            fab:menu_colorNormal="@color/colorAccent"
+            fab:menu_colorRipple="@color/colorPrimaryDark"
+            fab:menu_icon="@drawable/ic_menu"
+            fab:menu_shadowColor="@color/colorPrimary">
+
+            <com.github.clans.fab.FloatingActionButton
+                android:id="@+id/menu_load"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/ic_menu_crop"
+                fab:fab_colorNormal="@color/colorAccent"
+                fab:fab_colorPressed="@color/colorPrimary"
+                fab:fab_label="@string/selectframe"
+                fab:fab_size="mini" />
+
+            <com.github.clans.fab.FloatingActionButton
+                android:id="@+id/menu_thuvien"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/ic_menu_gallery"
+                fab:fab_colorNormal="@color/colorAccent"
+                fab:fab_colorPressed="@color/colorPrimary"
+                fab:fab_label="@string/selectphoto"
+                fab:fab_size="mini" />
+
+            <com.github.clans.fab.FloatingActionButton
+                android:id="@+id/menu_camera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/ic_menu_camera"
+                fab:fab_colorNormal="@color/colorAccent"
+                fab:fab_colorPressed="@color/colorPrimary"
+                fab:fab_label="@string/capture"
+                fab:fab_size="mini" />
+
+            <com.github.clans.fab.FloatingActionButton
+                android:id="@+id/menu_save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@android:drawable/ic_menu_save"
+                fab:fab_colorNormal="@color/colorAccent"
+                fab:fab_colorPressed="@color/colorPrimary"
+                fab:fab_label="@string/saveorshare"
+                fab:fab_size="mini" />
+
+        </com.github.clans.fab.FloatingActionMenu>
+
+        <View
+            android:id="@+id/idview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#4b4646"></View>
+
+        <ProgressBar
+            android:id="@+id/progressbarr"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+
+
+    </FrameLayout>
+
+    <include layout="@layout/ads_footer" />
+</LinearLayout>
